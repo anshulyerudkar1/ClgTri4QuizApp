@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "753740425429",
+    "project_id": "trivia-quiz-904ed",
+    "storage_bucket": "trivia-quiz-904ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753740425429:android:54c637592453aba2709a5c",
+        "android_client_info": {
+          "package_name": "com.example.quiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "753740425429-86vltlh2a7u5l7fmq794o8sjobif4tlk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzXlEDedr_lzc3wKLxxBUC2o7h-Xvmu5U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "753740425429-86vltlh2a7u5l7fmq794o8sjobif4tlk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
